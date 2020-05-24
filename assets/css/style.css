@@ -1,0 +1,202 @@
+<!--nav-->
+nav div h2 {
+  font-family: Lobster;
+  color: #ffffff
+}
+nav  ul a {
+  font-family: Cabin 400;
+  color:#ffffff
+}
+
+
+.container .card-1 {
+  max-width: 907pt;
+  height: 384pt;
+  border: none;
+}
+.row .card-img-top {
+  width: 482pt;
+  height: 370pt;
+  padding-top: 30px;
+}
+
+ h5 {
+  font-size: 40pt;
+  margin-top: 35pt;
+  color: #373A3C;
+}
+.card-bodyp p {
+  font-size: 20pt;
+  width: 269pt;
+  height: 27pt;
+  font-family: cabin 700;
+  color: #373A3C;
+}
+
+
+.btn-outline-dark {
+  margin-right: 40px;
+}
+
+.textofoto hr {
+  border: 1px solid #000000;
+  font-size: 40px;
+  width: 400px
+}
+.textofoto h2 {
+  font-size: 40px
+
+}
+.textofoto h4 {
+  font-size: 20px
+}
+
+.row img {
+  width: 233px;
+  height: 170px
+}
+
+.container hr {
+  border: 1px solid #000000;
+    width: 100%
+}
+.carousel-indicators {
+  bottom: -54px;
+}
+
+.carousel-indicators li {
+  background: black;
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  border: 0;
+}
+
+.controles a span {
+  background: black ;
+  width: 12px;
+  height: 12px;
+  border: 0;
+}
+section .col1 {
+  width: 50%;
+}
+section .ingredientes {
+  width: 50%
+  text-align: left;
+}
+
+
+
+.container .linea2 {
+  width: 50%;
+  margin-left: inherit;
+
+}
+.container .linea3 {
+  width: 40%;
+  margin-left: inherit;
+}
+.container #title {
+  font-size: 20pt;
+  font-family: 400;
+}
+
+#frustracion {
+  list-style: none;
+  font-size: 20pt;
+  font-family: 400;
+  text-align: justify;
+}
+#frustracion {
+  font-size: 20pt;
+  font-family: 400;
+
+}
+
+.container p h2 #frustracion {
+  font-size: 20pt;
+  font-family: 400;
+}
+#maldito, #gusano, #granuja, #frustracion{
+  font-size: 20pt;
+  font-family: 400;
+  color: #373A3C;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+#
+
+@media only screen and (min-width: 578px) {
+  #blogCarousel {
+
+  }
+}
+
+@media only screen and (min-width:600px) {
+  .col1, .col2 {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-width:800px) {
+  .col1 {
+    width: 60%;
+  }
+}
+.col2 {
+  width: 40%;
+}
+.container h2 {
+  font-size: 40pt;
+  padding-bottom: 20px
+}
+.flexbox-container {
+  width: 800px
+  margin-left:auto;
+  margin-right: auto;
+}
+section .text-center {
+  font-size: 40pt;
+}
+.card-body h5 {
+  font-size: 20pt;
+
+}
+.card-deck p {
+  font-size: 16pt;
+  padding-right: 10pt;
+  font-family: cabin 400;
+}
+
+.container-fluid {
+  background: #DC3545;
+  text-align: center;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  margin-top: 100px;
+  width: 100vw;
+  color: #FFFFFF;
+}
+.container-fluid p{
+  font-size: 30pt;
+  font-family: 400;
+
+  text-align: center;
+}
+
+.container .newsletter {
+  font-family: 700;
+  font-size: 40pt
+
+}
+.footer {
+  text-align: center;
+  padding: 30px;
+
+}
+.footer h2 {
+    font-size: 32pt;
+    font-family: Lobster;
+}
